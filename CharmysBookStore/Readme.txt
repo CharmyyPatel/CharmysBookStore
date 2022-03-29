@@ -29,4 +29,5 @@ Added references to the projects as per the instructions given in the PDF.
 Solved 3 errors successfully which was kind of a relief to me but the errors in startup.cs file is main to worry about.
 Still I continued to do my Part1 further with the errors. 
 
-
+Its 2:45
+Completed Part1
