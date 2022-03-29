@@ -22,3 +22,11 @@ Changed site.css
 
 Its 11:56
 Got 7 errors but still commiting changes to the Github
+
+Its 2:35
+Had 4 errors in startup.cs file which I tried to solve but I'm not able to solve. 
+Added references to the projects as per the instructions given in the PDF. 
+Solved 3 errors successfully which was kind of a relief to me but the errors in startup.cs file is main to worry about.
+Still I continued to do my Part1 further with the errors. 
+
+
