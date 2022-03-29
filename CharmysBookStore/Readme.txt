@@ -19,3 +19,6 @@ Added Separated Link to the DropDown
 
 Its 11.02
 Changed site.css
+
+Its 11:56
+Got 7 errors but still commiting changes to the Github

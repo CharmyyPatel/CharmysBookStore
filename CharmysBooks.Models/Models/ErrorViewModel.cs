@@ -1,6 +1,6 @@
 using System;
 
-namespace CharmysBookStore.Models
+namespace CharmysBookStore.Models.ViewModels
 {
     public class ErrorViewModel
     {
