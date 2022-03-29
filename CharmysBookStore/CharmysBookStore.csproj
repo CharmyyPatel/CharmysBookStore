@@ -15,4 +15,10 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.14" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CharmysBooks.DataAccess\CharmysBooks.DataAccess.csproj" />
+    <ProjectReference Include="..\CharmysBooks.Models\CharmysBooks.Models.csproj" />
+    <ProjectReference Include="..\CharmysBooks.Utility\CharmysBooks.Utility.csproj" />
+  </ItemGroup>
+
 </Project>
